@@ -1,0 +1,20 @@
+Total sales amount:
+Total sales figure: 672980.0
+
+Top 2 popular payment methods:
+Top 2 popular payment methods:
+Payment method: Apple pay used 31 times
+Payment method: WeChat used 20 times
+
+Top 3 cities with the most customers
+Top 3 cities with the most customers:
+City: HK has 5 customers.
+City: HKG has 4 customers.
+City: asf has 4 customers.
+
+Best-sellers (Top 3): 
+Top 3 best selling products:
+Product ID: 40 Product Name: KitchenAid Artisan Stand Mixer sold 16 times
+Product ID: 20 Product Name: Bose SoundLink Revolve+ Bluetooth Speaker sold 10 times
+Product ID: 8 Product Name: Fitbit Versa 3 sold 6 times
+
